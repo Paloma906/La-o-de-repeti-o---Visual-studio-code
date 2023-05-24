@@ -5,7 +5,7 @@
 // setlocale (LC ALL, ""); Colocar depos do "main"   depois apertar em ISO8..
 int main(){
 
-//4. Escrever um programa de computador que leia 5  números inteiros e, ao final, apresente a soma de  todos os números lidos.
+//3. Escrever um programa de computador que leia 5  números inteiros e, ao final, apresente a soma de  todos os números lidos.
 
 int i;
 int numero;
